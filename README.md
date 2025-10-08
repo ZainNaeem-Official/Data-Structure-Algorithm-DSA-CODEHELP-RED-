@@ -46,7 +46,7 @@ Source: Codehelp RED
 
 
 
-Deploy the Codebase: git clone https://github.com/ZainNaeem-Official/Data-Structure-Algorithm-DSA-CODEHELP-RED-.git
+Deploy the Codebase: git clone https://github.com/ZainNaeem-Official/Data_Structures_Algorithms_Codehelp_Red.git
 
 
 
