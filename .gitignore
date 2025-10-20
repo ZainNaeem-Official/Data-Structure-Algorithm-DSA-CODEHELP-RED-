@@ -2,4 +2,5 @@
 *.tmp
 00_Learn C++/   
 .vscode
+*.exe
 03_Patterns/
